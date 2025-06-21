@@ -1,5 +1,7 @@
 package Notifier;
 
+import Notifier.ExternalServices.File;
+import Notifier.ExternalServices.TelegramNotifier;
 import Report.Report;
 
 public class TelegramNotifierAdapter extends Notifier {

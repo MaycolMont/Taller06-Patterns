@@ -1,4 +1,4 @@
-package Notifier;
+package Notifier.ExternalServices;
 
 public class TelegramNotifier {
     public void sendMessage(String message) {

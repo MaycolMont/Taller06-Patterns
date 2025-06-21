@@ -1,4 +1,6 @@
-package Notifier;
+package Notifier.ExternalServices;
+
+// class from External Services
 
 public class File {
     private String name;
@@ -8,5 +10,5 @@ public class File {
         return name;
     }
 
-    
+
 }

@@ -1,5 +1,7 @@
 package Notifier;
 
+import Notifier.ExternalServices.File;
+import Notifier.ExternalServices.WhatsappNotifier;
 import Report.Report;
 
 public class WhatsappNotifierAdapter extends Notifier {
